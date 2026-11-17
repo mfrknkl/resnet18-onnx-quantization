@@ -61,7 +61,7 @@ The best checkpoint was selected based on validation accuracy.
 
 The trained PyTorch model was exported to ONNX using:
 
-- ONNX opset version 17
+- ONNX opset version 18
 - Dynamic batch dimensions
 - CPU inference
 
