@@ -192,7 +192,15 @@ resnet18-onnx-quantization/
 │   └── resnet18_quantization.ipynb
 │
 ├── src/
-│
+│   ├── __init__.py
+│   ├── data.py
+│   ├── model.py
+│   ├── export_onnx.py
+│   ├── quantize.py
+│   ├── evaluate.py
+│   ├── benchmark.py
+│   ├── model_size.py
+│   └── plot_results.py
 ├── results/
 │   ├── metrics.csv
 │   ├── latency.csv
