@@ -1,0 +1,8 @@
+
+split,model,accuracy,macro_f1
+validation,PyTorch FP32,0.8344,0.8317
+validation,ONNX FP32,0.8344,0.8317
+validation,ONNX INT8,0.7974,0.7951
+test,PyTorch FP32,0.8272,0.8271
+test,ONNX FP32,0.8272,0.8271
+test,ONNX INT8,0.7998,0.7998

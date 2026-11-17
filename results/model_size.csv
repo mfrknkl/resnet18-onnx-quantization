@@ -1,0 +1,5 @@
+
+model,size_mb
+PyTorch FP32,42.91
+ONNX FP32,42.90
+ONNX INT8,10.86

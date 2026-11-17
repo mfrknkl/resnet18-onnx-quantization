@@ -1,0 +1,5 @@
+
+model,batch_size,mean_ms,median_ms,p95_ms
+PyTorch FP32,1,57.9656,52.7462,79.4680
+ONNX FP32,1,36.9773,33.6398,50.2584
+ONNX INT8,1,26.0295,23.9165,34.6821
